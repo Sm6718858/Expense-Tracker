@@ -5,6 +5,7 @@ Developer: Shivam Mishra
 ExpenseFlow is a full-stack expense tracker application that allows users to easily manage their finances. Whether it's adding income, tracking daily expenses, or downloading reports, this app offers a seamless and intuitive experience for personal finance management.
 
 ✨ Features
+
 ➕ Add new expenses with amount, category, and date.
 ➕ Add new incomes with amount, source, and date.
 ❌ Delete existing expenses or incomes.
